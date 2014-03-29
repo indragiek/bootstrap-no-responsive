@@ -1,0 +1,15 @@
+{
+	"name": "bootstrap-no-responsive",
+	"description": "Compiled Bootstrap with responsive features disabled",
+	"main": [
+		"css/bootstrap.css",
+    	"js/bootstrap.js",
+    	"fonts/glyphicons-halflings-regular.eot",
+    	"fonts/glyphicons-halflings-regular.svg",
+    	"fonts/glyphicons-halflings-regular.ttf",
+    	"fonts/glyphicons-halflings-regular.woff"
+	],
+	"dependencies": {
+    	"jquery": ">= 1.9.0"
+  	}
+}
