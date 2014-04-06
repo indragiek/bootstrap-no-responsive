@@ -45,7 +45,7 @@ Installed as a [Bower](http://bower.io) package. Add as a dependency in `bower.j
 ```
 ...
 "dependencies": {
-	"bootstrap-no-responsive": "git@github.com:indragiek/bootstrap-no-responsive.git"
+	"bootstrap-no-responsive": "indragiek/bootstrap-no-responsive.git#3.1.1"
 	...
 }
 ```
